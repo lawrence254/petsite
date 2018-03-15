@@ -11,7 +11,7 @@ There are currently no known bugs on the site.
 ## Technologies Used
 The languages used to create this blog are HTML and a little bit of CSS
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+If you encounter an error or a problem with this code you can open a github issue and I will be in touch.
 ### License
 *MIT*
 ###
